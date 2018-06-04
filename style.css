@@ -1,0 +1,45 @@
+body
+{
+	font-family: all;
+	width: 1250px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: green;
+	
+
+}
+header
+{
+	font-size: 2EM;
+	color: blue; /*je n'aime pas le bleu*/
+	text-align: center;
+	background-color: red; 
+
+}
+nav
+{
+	width: 200px;
+	font-size: 10;
+	float: left;
+	background-color: blue;
+}
+section
+{
+	font-size: 14;
+	padding: 15px;
+	float: all;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	background-color: white;
+
+}
+footer
+{
+	clear: both;
+	text-align: center;
+}
+.corpus
+{
+	background-color: white;
+}
